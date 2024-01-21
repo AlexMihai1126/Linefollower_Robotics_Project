@@ -49,9 +49,9 @@ This is a team project developed during a one-day hackathon, at the Introduction
   Our team's robot successfully completed the racetrack in just 19.076 seconds!
 
    <h3>Chassis:</h3>
-<img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line3.jpeg?raw=true" alt="A photo of my setup" width="550" height="450">
-<img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line5.jpeg?raw=true" alt="A photo of my setup" width="550" height="450">
-<img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line4.jpeg?raw=truee" alt="A photo of my setup" width="550" height="450">
+<img src="img/line3.jpeg" alt="" width="550" height="450">
+<img src="img/line5.jpeg" alt="" width="550" height="450">
+<img src="img/line4.jpeg" alt="" width="550" height="450">
 
    
 </details> 
@@ -86,13 +86,12 @@ This is a team project developed during a one-day hackathon, at the Introduction
   <summary><h2><b> SHOWCASE 📸 🎥</b></h2></summary>
   <details>
     <summary><h3><b> Racetrack Picture 🦕</b></h3></summary> 
-    <img src="https://github.com/AlexMihai1126/linefollower_robotics_prototype/blob/main/traseu.jpeg?raw=true">
+    <img src="img/traseu.jpeg">
   </details> 
   <details>
     <summary><h3><b> Linefollower Setup Pictures </b></h3></summary>
-    <img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line.jpeg?raw=true" alt="A photo of my setup" width="550" height="450">
-    <img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line1.jpeg?raw=true" alt="A photo of my setup1" width="550" height="450">
-    <img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line2.jpeg?raw=true" alt="A photo of my setup2" width="550" height="450">
+    <img src="img/line1.jpeg" alt="" width="550" height="450">
+    <img src="img/line2.jpeg" alt="" width="550" height="450">
    
   </details>
 
